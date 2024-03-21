@@ -1,0 +1,369 @@
+{
+    "admobInterstitial": "ca-app-pub-6867768247891926/1287076952",
+    "mediation": false,
+    "games": 0,
+    "promoteApps": [],
+    "remoteGames": [
+        {
+            "name": "Neo Bomberman Geo",
+            "images": [
+                "https://play.google.com/store/apps/details?id=com.king_classic.game.thenechaltwopro"
+            ],
+            "game_link": "https://play.google.com/store/apps/details?id=neo.bombrman.arcade.geo.games"
+        },
+       {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/3wondersu.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/3wondersu.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/88games.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/88games.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/aof.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/aof.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/avsp.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/avsp.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/baddudes.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/baddudes.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/bbbxing.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/bbbxing.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/btoads.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/btoads.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/bublboblr.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/bublboblr.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/captavena.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/captavena.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/captcomm.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/captcomm.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/cbuster.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/cbuster.zip"
+
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/cninjau.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/cninjau.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/contrab.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/contrab.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/cyberlip.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/cyberlip.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/dbzvrvs.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/dbzvrvs.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/ddcrew1.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/ddcrew1.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/ddragonub.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/ddragonub.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/doubledr.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/doubledr.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/ffight2b.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/ffight2b.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/ffightub.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/ffightub.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/goalx3.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/goalx3.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/goldnaxe1.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/goldnaxe1.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/hook.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/hook.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/joemacra.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/joemacra.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/karnovr.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/karnovr.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/kbash2.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/kbash2.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/kinstb.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/kinstb.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/kof94.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/kof94.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/kof95.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/kof95.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/megaman.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/megaman.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/mkla3.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/mkla3.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/mshu.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/mshu.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/mwalkbl.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/mwalkbl.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/nbbatman.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/nbbatman.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/ncommand.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/ncommand.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/ninjaw.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/ninjaw.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/nitd.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/nitd.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/nslasherj.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/nslasherj.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/outrun.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/orunners.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/outzone.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/outzone.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/pbobble.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/pbobble.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/punisher.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/punisher.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/samsho.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/samsho.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/shadfrce.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/shadfrce.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/shinoblb.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/shinoblb.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/shocktro.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/shocktro.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/sonicwi2.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/sonicwi2.zip"
+        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/spang.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/spang.zip"
+                    },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/spinmast.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/spinmast.zip"
+                    },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/ssideki.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/ssideki.zip"
+                    },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/ssridersubc.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/ssridersubc.zip"
+                    },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/strhoop.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/strhoop.zip"
+                    },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/tmnt.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/tmnt.zip"
+                    },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/tumblep.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/tumblep.zip"
+                    },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/uballoon.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/uballoon.zip"
+                    },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/wboy4.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/wboy4.zip"        },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/wh2.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/wh2.zip"
+                    },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/wof.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/wof.zip"
+                                },
+        {
+            "images": [
+                "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/xmvsf.png"
+            ],
+            "game_link": "https://cdn.jsdelivr.net/gh/Hafidoos/nff@a406ba9491c7552a95ec567e4075f6fe83b607f9/xmvsf.zip"
+        }
+    ]
+}
